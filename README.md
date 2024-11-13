@@ -19,7 +19,7 @@ This course focuses on applying programming techniques in C++ for financial engi
    + `Assignment3`: Numerical Integration
    + `Assignment4`: Spread Option Pricing
    + `Assignment5`: Advanced Option Pricing Models
-   + `Assignment6`: 
+   + `Assignment6`: Replicating Strategy and Option Pricing Output
    + `Assignment7`: American Call Option Pricing
 
 
