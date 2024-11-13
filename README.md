@@ -15,12 +15,12 @@ This course focuses on applying programming techniques in C++ for financial engi
    
 ## Repository Structure
    + `Assignment1`: Setting up C++ environment.
-   + `Assignment2`: 
-   + `Assignment3`:
-   + `Assignment4`: 
-   + `Assignment5`:
-   + `Assignment6`:
-   + `Assignment7`:
+   + `Assignment2`: Digital Call and Put Option Pricing
+   + `Assignment3`: Numerical Integration
+   + `Assignment4`: Spread Option Pricing
+   + `Assignment5`: Advanced Option Pricing Models
+   + `Assignment6`: 
+   + `Assignment7`: American Call Option Pricing
 
 
  
